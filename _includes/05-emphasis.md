@@ -1,0 +1,3 @@
+- *This is some text in italic*
+- **This is some text in bold**
+- __*This is some text in both bold and italic*__
